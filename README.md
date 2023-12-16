@@ -1,5 +1,5 @@
 
-# Automated Video Creation Project
+# Automated Video Creation Tool
 
 ## Project Overview
 This project aims to automate the process of creating YouTube videos by integrating GPT Assistant for text prompts, Google Text-to-Speech (gTTS) for voice generation, RunwayML for video creation, and MoviePy for video and voice integration.
